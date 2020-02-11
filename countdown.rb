@@ -15,5 +15,5 @@ end
 end
 
 def countdown_with_sleep(time)
-countdown(5.minute)
+countdown(time.minutes)
 end 
