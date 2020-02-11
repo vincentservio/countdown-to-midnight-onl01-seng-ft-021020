@@ -23,6 +23,5 @@ loop do
  sleep(1)
   if number <= 1 
     break
-  end
   
 end 
